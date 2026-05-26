@@ -1,0 +1,4 @@
+#Greatest number based on true false
+a =int(input("enter your first num"))
+b=int(input("enter your second num"))
+print(a>=b)
