@@ -1,0 +1,9 @@
+#palindrome
+num=input("Enter your number:")
+num1=list(num)
+copy_num= num1.copy()
+copy_num.reverse()
+if(copy_num==num1):
+    print("Palindrome")
+else:
+    print("Not Palindrome")
