@@ -1,0 +1,6 @@
+#concatenate the lists
+first_name =input("enter your first name:")
+sec_name =input("enter your second name:")
+third_name =input("enter your third name:")
+list1=list(first_name,sec_name,third_name)
+print(list1)
