@@ -1,0 +1,6 @@
+#counting and sorting
+grade=("D","B","A","A","C","E","A")
+print(grade.count("A"))
+list1=list(grade)
+list1.sort()
+print(list1)
