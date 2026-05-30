@@ -1,0 +1,10 @@
+dict={
+    "name": "Priti",
+    "course" : "MCA",
+    "Batch" : "2025",
+    "Location" : "Punjab"
+}
+dict.keys()
+dict.values( )
+dict.items( )
+dict.get( "key") 
