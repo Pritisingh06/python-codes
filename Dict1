@@ -1,0 +1,8 @@
+dict={}
+first_subject=int(input("Enter marks"))
+sec_subject=int(input("Enter marks"))
+third_subject=int(input("Enter marks"))
+dict["Python"]=first_subject
+dict["Java"]=sec_subject
+dict["C"]=third_subject
+print(dict)
